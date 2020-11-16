@@ -1,6 +1,7 @@
 ## Install backend packages
 
 Install python packages
+
 ```
 [interactive-grid]> pip3 install -r requirements.txt
 ```
@@ -17,22 +18,23 @@ Install node
 ```
 
 Install dependencies
+
 ```
-npm install
+[interactive-grid]> npm install
 ```
 
-## Start the servers
+## Run the app locally
 
 In one terminal, do:
+
 ```
 [interactive-grid]> npm run start
 ```
 
 In a second terminal, do:
+
 ```
 [interactive-grid]> python3 app.py
 ```
-
-## Visit the app
 
 The app should now be live at http://localhost:3000
