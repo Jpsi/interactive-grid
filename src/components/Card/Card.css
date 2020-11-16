@@ -1,0 +1,16 @@
+.card {
+  border: 1px solid #5d6063;
+  min-width: 10%;
+  max-width: 10%;
+  padding: 1em 3%;
+  margin: 1em 7%;
+}
+
+.card-title {
+  display: flex;
+  justify-content: center;
+}
+
+.card-image {
+  max-width: 100%;
+}
